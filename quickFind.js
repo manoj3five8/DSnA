@@ -37,9 +37,9 @@ check.quickFind(10);
 check.union(3,6);
 check.union(1,2);
 check.union(9,4);
-console.log(check.id);
+// console.log(check.id);
 
 
-var isConnected = check.connected(0,0);
+var isConnected = check.connected(2,1);
 
 // console.log(isConnected);
